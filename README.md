@@ -1,4 +1,4 @@
-# signalDemodulation
+# Signal Resolution
 This program applied some processes respectively to resolve the given composited signals. In this way, generated voice can be resolved.
 These processes are below respectively:
 1. The **composit signal** ,which is input, is converted to a graphic in the **frequence domain**.
